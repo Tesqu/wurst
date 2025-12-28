@@ -1,0 +1,2 @@
+# wurst
+Wurst macro automatization
